@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Bebas+Neue&family=Libre+Barcode+128+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Bebas+Neue&family=Libre+Barcode+128+Text&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #130038;
+    color: white;
+    scroll-behavior: smooth;
+}
+.colorblue{
+    background-color: #7030f0;
+}
+.borderBlue{
+
+    border-bottom : 1px solid #7030f0
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  /* .libre-barcode-128-text-regular {
+    font-family: "Libre Barcode 128 Text", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  } */
+  /* google fonts */
+  .bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .amatic-sc-regular {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+   /* end google fonts */
+  /* h1 {
+    background: linear-gradient(43deg, #4158D0 0%, #c850c0 46%,#ffcc70 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  } */
+  
+  .gOne{
+    height: 70vh;
+  }
+  .gTwo{
+    height: 70vh;
+  }
+  .bantxt2{
+    font-size: 30px;
+  }
+  .bantxt1{
+    font-size: 50px;
+    background: linear-gradient(43deg, #4158D0 0%, #c850c0 46%,#ffcc70 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .banBtn{
+    border : 1px solid #7030f0;
+  }
+  .sectwoMain{
+    height: 80vh;
+  }
+  .whatwe{
+    font-size: 40px;
+  }
+  .dofor{
+    font-size: 30px;
+  }
